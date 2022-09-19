@@ -1,7 +1,7 @@
 ### Hi there 👋
-
+Alaa Shaqfa is here
 <!--
-**AlaaShaqfa/AlaaShaqfa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**AlaaShaqfa/AlaaShaqfa** is a ✨ here ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
